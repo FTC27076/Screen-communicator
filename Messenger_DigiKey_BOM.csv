@@ -1,0 +1,23 @@
+Quantity,Manufacturer Part Number,Manufacturer,Customer Reference,Description
+2,ESP32-S3-WROOM-1-N8,Espressif Systems,U1,"ESP32-S3 Wi-Fi/BLE module, 8 MB flash"
+2,MCP1826S-3302E/AB,Microchip Technology,U2,"3.3 V 1 A LDO, TO-220-3"
+2,SN74HCT125N,Texas Instruments,U3,"Quad buffer 3-state, DIP-14"
+2,ED14DT,On Shore Technology,U3 socket,14-pin DIP socket
+8,MFR-25FBF52-10K,Yageo,R1 R2 R5 R6,10k 1% 1/4W axial
+4,MFR-25FBF52-22R,Yageo,R3 R4,22R 1% 1/4W axial
+2,MFR-25FBF52-100K,Yageo,R7,100k 1% 1/4W axial
+2,MFR-25FBF52-68K,Yageo,R8,68k 1% 1/4W axial
+2,3296W-1-103LF,Bourns,RV1,"10k multiturn trimmer, top adjust"
+2,C320C105K5R5TA,KEMET,C1,1uF 50V X7R radial ceramic
+16,C320C104K5R5TA,KEMET,C3 C6 C7 C9 C10 C11 C12 C14,100nF 50V X7R radial ceramic
+6,ECA-1CM100,Panasonic,C4 C5 C8,"10uF 16V electrolytic, 5mm"
+2,ECA-1CM220,Panasonic,C2,"22uF 16V electrolytic, 5mm"
+2,ECA-1CM330,Panasonic,C13,"33uF 16V electrolytic, 5mm"
+4,1N5819RLG,onsemi,D1 D2,"Schottky 40V 1A, DO-41"
+4,B3F-1000,Omron Electronics,SW1 SW2,6x6mm tactile switch THT
+2,PPTC201LFBN-RC,Sullins Connector Solutions,J2 LCD socket,1x20 female header 2.54mm
+2,PPTC041LFBN-RC,Sullins Connector Solutions,U4 regulator socket,1x4 female header 2.54mm
+2,B2B-XH-A(LF)(SN),JST Sales America,J4,"XH 2-pin header, vertical"
+2,XHP-2,JST Sales America,J4 plug,XH 2-pin housing
+4,SXH-001T-P0.6,JST Sales America,J4 plug crimps,XH crimp contact 26-28AWG
+2,SBH341AS,MPD (Memory Protection Devices),Battery holder,"4xAA holder, covered, leads"
