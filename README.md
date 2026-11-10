@@ -14,4 +14,10 @@ It's an esp 32 connected to a screen and a joystick. You type with the joystick,
 6. PCB
 7. CASE
 
-## Passive components
+
+
+## PCB 
+
+
+<img width="754" height="650" alt="Screenshot 2026-11-07 at 8 56 45 AM" src="https://github.com/user-attachments/assets/8c538dfb-0854-4787-9030-5c214b55ef4e" />
+<img width="829" height="704" alt="Screenshot 2026-11-07 at 9 04 18 AM" src="https://github.com/user-attachments/assets/79056f23-6679-43db-87cb-71044adda28d" />
